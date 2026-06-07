@@ -2,9 +2,7 @@
 Automatically plays the silly fish game for you!
 
 
-====================================================
 AUTO CONTROLLER - SETUP INSTRUCTIONS
-====================================================
 
 REQUIRED MODULES:
 
